@@ -1,5 +1,6 @@
 ## Welcome to the MARS Lab! 🎉  
 **MARS(Medical AI Research center, SMC) Lab**은 의료 혁신의 핵심 동력 중 하나인 **'의료 인공지능'** 분야의 전문 인재를 양성하고, 실제 의료 환경에서 활용 가능한 AI 기술을 개발하는 연구실입니다.
+![SKKU_MARS_v5 _1](https://github.com/user-attachments/assets/11cd2a8f-4a1f-486f-a2d0-afebc56a2de6)
 
 ---
 
